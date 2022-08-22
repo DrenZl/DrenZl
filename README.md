@@ -1,4 +1,3 @@
-<h2 align="center">PraNex</h2>
 <p align="center" alt="" width="">
     <img alt="" src="assets/standard.gif">
 </p>
